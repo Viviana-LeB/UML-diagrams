@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    color: black;
+    margin: 0px 60px;
+}
+
+a {
+    text-decoration: none;
+    text-align: center;
+    color: black;
+}
+
+a:hover {
+    color: goldenrod;
+}
+
+iframe {
+   
+}
+
